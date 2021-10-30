@@ -2,9 +2,9 @@
 # WeatherPy Analysis
 
 ## Project Overview
-- There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.This analysis project provides a visualizatoin of trends in PyBer Company's ride-sharing data.The areas of focus for this project include the following:
+#### This analysis project provides a visualization for identifying potential travel destinations. APIs from OpenWeatherMap and Google Maps were utilized in this analysis. The areas of focus for this project include the following:
 
-1) Retrieving Weather Data from OpenWeatherMap from 2,000 locations
+1) Retrieving Weather Data for over 2,000 locations
 ![weather_data_](Weather_Database/weather_data.png)
 
 2) Create a Customer Travel Destination Map
