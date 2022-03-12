@@ -1,5 +1,5 @@
 ![weather_banner](Resources/weather_banner.png)
-# WeatherPy Analysis
+# World Weather Analysis
 
 ## Project Overview
 #### This analysis project provides a visualization for identifying potential travel destinations. APIs from OpenWeatherMap and Google Maps were utilized in this analysis. The areas of focus for this project include the following:
